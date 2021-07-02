@@ -16,3 +16,4 @@ This repository contains my colab notebook copies with implementation codes for 
 -  MNIST digits dataset 
 - Density-based clustering : DBSCAN & HDBSCAN  
 - Gaussian Mixture Models
+- OLS (Ordinary Least Square) - a basic version of linear regression
