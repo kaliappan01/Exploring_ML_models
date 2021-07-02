@@ -15,3 +15,4 @@ This repository contains my colab notebook copies with implementation codes for 
 -  Linear regression
 -  MNIST digits dataset 
 - Density-based clustering : DBSCAN & HDBSCAN  
+- Gaussian Mixture Models
